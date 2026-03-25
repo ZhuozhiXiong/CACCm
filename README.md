@@ -22,6 +22,10 @@ The framework consists of two main modules:
 2. **Parameter Optimization**  
    A frequency‑domain optimization using real HDV trajectory data (NGSIM) to maximize string stability and disturbance damping. The optimization balances the String Stability Ratio (SSR) and the Damping Ratio (DR).
 
+The framework overview is as follows:
+
+<img src="Framework_overview.png" alt="Framework Overview" width="600">
+
 ## 📁 Repository Structure
 
 - `optimization.m`: Main optimization script (fmincon)
@@ -42,3 +46,5 @@ The framework consists of two main modules:
 - **Signal Processing Toolbox** (for FFT operations)
 
 ## 📄 Citation
+
+The manuscript is submitted to IEEE Transactions on Intelligent Transportation Systems.
