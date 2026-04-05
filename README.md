@@ -47,4 +47,14 @@ The framework overview is as follows:
 
 ## 📄 Citation
 
-The manuscript is submitted to IEEE Transactions on Intelligent Transportation Systems.
+This study is accepted by IEEE Transactions on Intelligent Transportation Systems.
+``` bibtex
+@article{xiong2026CACCm,
+  title={A Control Framework for Stabilizing a Mixed Platoon with Connected Automated Vehicles},
+  author={Xiong, Zhuozhi and Wang, Hao and Zhang, Jiarui and Han, Gengyue and Wang, Feng and Li, Ni and Dong, Changyin},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2026},
+  publisher={IEEE},
+  note={Accepted}
+}
+```
